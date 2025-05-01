@@ -9,7 +9,6 @@
 ### 🧠 Обо мне:
 - 🎯 Самостоятельный разработчик
 - 🧩 Backend на **Python (FastAPI, SQLAlchemy, PostgreSQL)**
-- 💅 Frontend на **React, TypeScript**
 - 📦 Люблю работать с **Docker**, **Celery**, **Redis**, **RabbitMQ**
 - 📬 Автоматизирую CRM и работаю с LLM
 
