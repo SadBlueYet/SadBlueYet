@@ -47,17 +47,6 @@ class Developer:
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/SadBlueYet/TaskFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadBlueYet&repo=TaskFlow&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/SadBlueYet/auth">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadBlueYet&repo=auth&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
 | Project | Description | Stack |
 |:--------|:------------|:------|
 | [TaskFlow](https://github.com/SadBlueYet/TaskFlow) | Trello-style kanban board with notifications & DDD architecture | TypeScript |
@@ -69,12 +58,16 @@ class Developer:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SadBlueYet&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadBlueYet&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SadBlueYet&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SadBlueYet&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SadBlueYet&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SadBlueYet&theme=radical" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SadBlueYet&theme=radical&utcOffset=3" height="170"/>
 </p>
 
 ---
