@@ -49,7 +49,7 @@ class Developer:
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [TaskFlow](https://github.com/SadBlueYet/TaskFlow) | Trello-style kanban board with notifications & DDD architecture | TypeScript |
+| [TaskFlow](https://github.com/SadBlueYet/TaskFlow) | Trello-style kanban board with notifications & DDD architecture | TypeScript, Python |
 | [auth](https://github.com/SadBlueYet/auth) | Authentication service with login, registration & JWT | Python |
 | [Ozon_price_bot](https://github.com/SadBlueYet/Ozon_price_bot) | Telegram bot for Ozon price tracking | Python |
 
