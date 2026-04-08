@@ -49,29 +49,29 @@ class Developer:
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [TaskFlow](https://github.com/SadBlueYet/TaskFlow) | Trello-style kanban board with notifications & DDD architecture | TypeScript, Python |
-| [auth](https://github.com/SadBlueYet/auth) | Authentication service with login, registration & JWT | Python |
-| [Ozon_price_bot](https://github.com/SadBlueYet/Ozon_price_bot) | Telegram bot for Ozon price tracking | Python |
+| [TaskFlow](https://github.com/skellleks/TaskFlow) | Trello-style kanban board with notifications & DDD architecture | TypeScript, Python |
+| [auth](https://github.com/skellleks/auth) | Authentication service with login, registration & JWT | Python |
+| [Ozon_price_bot](https://github.com/skellleks/Ozon_price_bot) | Telegram bot for Ozon price tracking | Python |
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SadBlueYet&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=skellleks&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SadBlueYet&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skellleks&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SadBlueYet&theme=radical" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SadBlueYet&theme=radical&utcOffset=3" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skellleks&theme=radical" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skellleks&theme=radical&utcOffset=3" height="170"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SadBlueYet&style=flat-square&color=F78A5B" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=skellleks&style=flat-square&color=F78A5B" alt="Profile views"/>
 </p>
